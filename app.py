@@ -30,5 +30,3 @@ def hello():
         
         dispacher.process_update(update)
         return 'ok'
-
-bot=Bot(TOKEN)
